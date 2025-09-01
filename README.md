@@ -1,5 +1,11 @@
 # Copilot Configuration
 
+## Project Status & Structure
+
+This repository is organized for Copilot configuration and extensible onboarding.  
+See [CHANGELOG.md](CHANGELOG.md) for recent updates.  
+Core folders: `/docs` (documentation), `/copilot` (prompts/config), `/webapp` (Next.js app).
+
 ## Project Overview & Brief
 
 > **Copilot System Note:**  
