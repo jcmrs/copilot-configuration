@@ -106,6 +106,14 @@
 
 ## Onboarding & Handoff Instructions (Explicitly Marked)
 
+> **Copilot System Note:** 
+> This section is the first system instruction for any new Copilot Conversation.
+
+- Read [PERSONAL_INSTRUCTIONS.md](./PERSONAL_INSTRUCTIONS.md) for roles, expertises, alternation protocol, collaboration.
+- Reference [PROMPTS.md](./PROMPTS.md) for prompt usage and output formatting.
+- Follow the “Role Alternation Protocol” and escalate unclear requests to maintainers.
+- Document rationale for major actions or changes.
+
 > **Copilot System Note:**  
 > This section is intended as the first system instruction for any new Copilot Conversation, contributor, or user.
 
