@@ -9,7 +9,7 @@ This document describes how to participate, submit changes, and help shape the f
    Start with the [README.md](./README.md).
 
 2. **Follow Copilot System Protocols**  
-   Reference [PERSONAL_INSTRUCTIONS.md](./PERSONAL_INSTRUCTIONS.md) and [PROMPTS.md](./PROMPTS.md) for context and onboarding.
+   Reference [PERSONAL_INSTRUCTIONS.md](./PERSONAL_INSTRUCTIONS.md), [PROMPTS.md](./PROMPTS.md), and critically, [PLATFORM-PROTOCOLS.md](./PLATFORM-PROTOCOLS.md) before onboarding or running workflows.
 
 3. **Submit Issues & Pull Requests**  
    - For bugs or feature requests, open an issue.
@@ -26,6 +26,10 @@ This document describes how to participate, submit changes, and help shape the f
 ## Contributor Code of Conduct
 
 Be respectful, collaborative, and follow best practices for open-source communities.
+
+## Platform & Environment Protocols
+
+**All contributors must consult [PLATFORM-PROTOCOLS.md](./PLATFORM-PROTOCOLS.md) for platform, environment, and workflow constraints before making changes or running CI.**
 
 ## License
 
