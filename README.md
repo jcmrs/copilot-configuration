@@ -6,12 +6,14 @@ This repository is organized for Copilot configuration and extensible onboarding
 See [CHANGELOG.md](CHANGELOG.md) for recent updates.  
 Core folders: `/docs` (documentation), `/copilot` (prompts/config), `/webapp` (Next.js app).
 
+---
+
 ## Project Overview & Brief
 
 > **Copilot System Note:**  
 > This document is intended as the initial system instruction and onboarding context for any new Copilot Conversation, contributor, or user.
 
-**Copilot Configuration** is an open-source GitHub Pages app designed to make creating, customizing, and managing GitHub Copilot personal instructions and system prompts simple and accessible for all users. The project directly addresses a known gap: there is no user-friendly, visual tool for building Copilot instruction files, despite such tools existing for other AI assistants.
+**Copilot Configuration** is an open-source GitHub Pages app designed to make creating, customizing, and managing GitHub Copilot personal instructions and system prompts simple and accessible for [...]  
 
 ---
 
@@ -145,10 +147,17 @@ If you are a new contributor or starting a new Copilot Conversation, **treat the
 
 ---
 
+## Platform Protocols & Constraints
+
+**All maintainers and autonomous agents must review [PLATFORM-PROTOCOLS.md](./PLATFORM-PROTOCOLS.md) before running workflows, proposing changes, or onboarding.**  
+This document details platform, environment, and operational boundaries for reliable project maintenance and cross-role clarity.
+
+---
+
 ## Project Summary (Explicit Instruction)
 
 > **Copilot, maintain this summary as core context for all project actions and communications:**
 
-**Copilot Configuration** is a community-driven, user-centric solution to streamline and democratize GitHub Copilot instruction creation. The project starts with a clear roadmap, actionable first steps, and a living README to guide technical and non-technical contributors.
+**Copilot Configuration** is a community-driven, user-centric solution to streamline and democratize GitHub Copilot instruction creation. The project starts with a clear roadmap, actionable first[...]  
 
 **Kickstart your Copilot experience—no manual markdown required!**
